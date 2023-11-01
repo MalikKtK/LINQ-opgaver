@@ -1,0 +1,14 @@
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\bin\Debug\net7.0\LINQquerySyntax.exe
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\bin\Debug\net7.0\LINQquerySyntax.deps.json
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\bin\Debug\net7.0\LINQquerySyntax.runtimeconfig.json
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\bin\Debug\net7.0\LINQquerySyntax.dll
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\bin\Debug\net7.0\LINQquerySyntax.pdb
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\obj\Debug\net7.0\LINQquerySyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\obj\Debug\net7.0\LINQquerySyntax.AssemblyInfoInputs.cache
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\obj\Debug\net7.0\LINQquerySyntax.AssemblyInfo.cs
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\obj\Debug\net7.0\LINQquerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\obj\Debug\net7.0\LINQquerySyntax.dll
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\obj\Debug\net7.0\refint\LINQquerySyntax.dll
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\obj\Debug\net7.0\LINQquerySyntax.pdb
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\obj\Debug\net7.0\LINQquerySyntax.genruntimeconfig.cache
+C:\Users\kutuk\Desktop\LINQ opgaver\LINQquerySyntax\obj\Debug\net7.0\ref\LINQquerySyntax.dll
